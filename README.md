@@ -1,4 +1,4 @@
-# Covid Vaccone Booking App
+# Covid Vaccine Booking App
 
 This app allows users to book a covid vaccine appointment in centers all around Nigeria.
 
