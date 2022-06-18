@@ -1,0 +1,3 @@
+/**
+ * Email interaction methods here
+ */
