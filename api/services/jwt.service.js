@@ -26,7 +26,7 @@ export const findByTokenFunction = async function (token) {
         throw { errmsg: "A valid token is required" }
     }
     let instance = await Model.findOne({
-        'id': decoded._id,
+        '_id': decoded._id,
     });
     return instance;
 };
